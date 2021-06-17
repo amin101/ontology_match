@@ -1,4 +1,5 @@
 package match;
+import info.debatty.java.stringsimilarity.NGram;
 import openllet.owlapi.OpenlletReasoner;
 import org.semanticweb.owlapi.model.*;
 import org.simmetrics.StringMetric;
@@ -28,8 +29,8 @@ class Model {
 
 
 
-
     protected Model()  {
+
     }
 
 public Ontology initOntology(String path) throws OWLOntologyCreationException, URISyntaxException {
