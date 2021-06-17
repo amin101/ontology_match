@@ -24,11 +24,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc57d33b-bb93-4e36-adc9-e318d228a043" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/match/WordNet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/match/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/match/Model.java" afterDir="false" />
-    </list>
+    <list default="true" id="bc57d33b-bb93-4e36-adc9-e318d228a043" name="Default Changelist" comment="Adding WordNet.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,7 +163,7 @@
       <workItem from="1623825609462" duration="1140000" />
       <workItem from="1623827189177" duration="5764000" />
       <workItem from="1623908816181" duration="512000" />
-      <workItem from="1623909343458" duration="4378000" />
+      <workItem from="1623909343458" duration="4770000" />
     </task>
     <task id="LOCAL‎۰۰۰۰۱" summary="first commit">
       <created>1623909888888</created>
@@ -187,7 +183,13 @@
       <option name="presentableId" value="LOCAL‎۰۰۰۰۳" />
       <updated>1623910783016</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎۰۰۰۰۴" summary="Adding WordNet.java">
+      <created>1623924168566</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۴" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۴" />
+      <updated>1623924168566</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +220,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Adding WordNet.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding WordNet.java" />
   </component>
   <component name="WindowStateProjectService">
     <state x="694" y="342" key="#Notifications" timestamp="1623908092228">
@@ -305,10 +308,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="829" y="313" key="UIDesigner.ListEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616755462101" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1623910925838">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1623924040338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1623910925838" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1623924040338" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1616772577574">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
