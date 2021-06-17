@@ -9,6 +9,7 @@ import java.io.FileOutputStream;
 import java.io.FileReader;
 
 class WordNet {
+
     public static void main(String[] args) {
         //this system property sets the location of the wordnet dictionary. Move it to your needs
         System.setProperty("wordnet.database.dir","C:\\Program Files\\WordNet\\2.1\\dict\\");
